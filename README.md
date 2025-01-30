@@ -16,5 +16,4 @@ This is a simple public API that returns basic information in JSON format.
 }
 
 
-backlink for nodejs developers
-https://hng.tech/hire/nodejs-developers
+"backlink": "https://hng.tech/hire/nodejs-developers"
