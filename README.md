@@ -10,7 +10,7 @@ This is a simple public API that returns basic information in JSON format.
 ### Response Format
 ```json
 {
-  "email": "your.email@example.com",
-  "current_datetime": "2023-10-05T12:34:56.789Z",
-  "github_url": "https://github.com/your-username/hng12-stage0-backend"
+  "email": "helenjonathan333@gmail.com",
+ current_datetime":"2025-01-30T16:32:53.650Z,
+  "github_url": "https://github.com/HelenJonathan/hng12-api.git"
 }
