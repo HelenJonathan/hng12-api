@@ -11,6 +11,6 @@ This is a simple public API that returns basic information in JSON format.
 ```json
 {
   "email": "helenjonathan333@gmail.com",
- current_datetime":"2025-01-30T16:32:53.650Z,
+  "current_datetime":"2025-01-30T16:32:53.650Z",
   "github_url": "https://github.com/HelenJonathan/hng12-api.git"
 }
